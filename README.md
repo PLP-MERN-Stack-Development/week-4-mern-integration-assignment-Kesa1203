@@ -134,12 +134,12 @@ _(Add more endpoints as needed)_
 
 ## 📦 Submission Checklist
 
-- [ ] Back-end with working Express routes and MongoDB connection
-- [ ] Front-end with working React components and routing
-- [ ] Full CRUD for posts and comments
-- [ ] Auth setup and secure endpoints
-- [ ] Proper `.env` configuration
-- [ ] Code pushed to GitHub Classroom repository
+- [x] Back-end with working Express routes and MongoDB connection
+- [x] Front-end with working React components and routing
+- [x] Full CRUD for posts and comments
+- [x] Auth setup and secure endpoints
+- [x] Proper `.env` configuration
+- [x] Code pushed to GitHub Classroom repository
 
 ---
 
